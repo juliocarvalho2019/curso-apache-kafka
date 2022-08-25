@@ -1,4 +1,4 @@
-package com.julio.strproducer;
+package com.julio.strconsumer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

@@ -1,4 +1,4 @@
-package com.julio.strproducer;
+package com.julio.strconsumer;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

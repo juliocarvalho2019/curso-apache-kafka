@@ -1,4 +1,4 @@
-package com.julio.strproducer.config;
+package com.julio.strconsumer.config;
 
 import lombok.RequiredArgsConstructor;
 import org.apache.kafka.clients.consumer.ConsumerConfig;
