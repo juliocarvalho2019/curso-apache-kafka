@@ -1,5 +1,6 @@
 package com.julio.paymentservice.model;
 
+
 import lombok.Getter;
 
 import java.io.Serializable;
